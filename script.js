@@ -1,4 +1,4 @@
-const apiKey = "28866e92f1134f6888123101252302"; // Replace with your WeatherAPI key
+const apiKey = "Replace with your WeatherAPI key"; // Replace with your WeatherAPI key
 
 // Detect User Location on Page Load
 window.onload = function () {
