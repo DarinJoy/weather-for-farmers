@@ -39,8 +39,7 @@ Follow these steps to set up and run the **Weather Forecast for Farmers** app:
 
 #### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/weather-forecast-app.git
-cd weather-forecast-app
+git clone https://github.com/DarinJoy/weather-for-farmers.git
 ```
 
 #### **2️⃣ Replace the API Key**  
